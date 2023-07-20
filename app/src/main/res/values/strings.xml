@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Bookipedia search part</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="titlelabel">Book Search</string>
+    <string name="Searchbookbox">Enter Book Title to Search For</string>
+    <string name="searchbuttonlabel">Search</string>
+    <string name="buttonmainmenulabel">Main Menu</string>
+    <string name="clearbuttonlabel">Clear</string>
+    <string name="savebuttonlabel">Save Book</string>
+    <string name="readbuttonlabel">Read book</string>
+</resources>
